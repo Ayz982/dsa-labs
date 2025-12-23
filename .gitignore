@@ -1,0 +1,70 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio cache files
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Generated files
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.obj
+*.lib
+*.dll
+*.exe
+*.app
+*.iobj
+*.ipdb
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Temporary files
+*.tmp
+*.log
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.opendb
+*.tgz
+*.gz
+*.zip
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Backup & autosave
+*.bak
+*.swp
+*.swo
+
+# Profiling
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Others
+*.dbmdl
+*.dbproj.schemaview
