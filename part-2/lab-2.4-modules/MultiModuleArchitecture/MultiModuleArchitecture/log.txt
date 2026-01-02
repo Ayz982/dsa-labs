@@ -1,0 +1,93 @@
+common_init: Global variables and log file initialized.
+--- [MAIN STARTED] ---
+[INFO] S1 started.
+[INFO] S5 started.
+Vg2 = 10
+[INFO] Err started and finished.
+[INFO] S5 finished.
+[INFO] S6 started.
+Vg1 = 19
+[INFO] Err started and finished.
+[INFO] S6 finished.
+[INFO] Err started and finished.
+[INFO] S1 finished.
+[INFO] S2 started.
+[INFO] S6 started.
+Vg1 = 18
+[INFO] Err started and finished.
+[INFO] S6 finished.
+[INFO] S7 started.
+Vg2 = 11
+[INFO] S2 started.
+[INFO] S6 started.
+Vg1 = 17
+[INFO] Err started and finished.
+[INFO] S6 finished.
+[INFO] S7 started.
+Vg2 = 12
+[INFO] S2 started.
+[INFO] S6 started.
+Vg1 = 16
+[INFO] Err started and finished.
+[INFO] S6 finished.
+[INFO] S7 started.
+Vg2 = 13
+[INFO] S2 started.
+[INFO] S6 started.
+Vg1 = 15
+[INFO] Err started and finished.
+[INFO] S6 finished.
+[INFO] S7 started.
+Vg2 = 14
+[INFO] S2 started.
+[INFO] S6 started.
+Vg1 = 14
+[INFO] Err started and finished.
+[INFO] S6 finished.
+[INFO] Err started and finished.
+[INFO] S2 finished.
+[INFO] Err started and finished.
+[INFO] S7 finished.
+[INFO] Err started and finished.
+[INFO] S2 finished.
+[INFO] Err started and finished.
+[INFO] S7 finished.
+[INFO] Err started and finished.
+[INFO] S2 finished.
+[INFO] Err started and finished.
+[INFO] S7 finished.
+[INFO] Err started and finished.
+[INFO] S2 finished.
+[INFO] Err started and finished.
+[INFO] S7 finished.
+[INFO] Err started and finished.
+[INFO] S2 finished.
+[INFO] S3 started.
+Vg4 = 3
+[INFO] S8 started.
+Vg3 = 8
+[INFO] Err started and finished.
+[INFO] S8 finished.
+[INFO] S9 started.
+Vg3 = 9
+[INFO] Err started and finished.
+[INFO] S9 finished.
+[INFO] S10 started.
+Vg3 = 10
+[INFO] Err started and finished.
+[INFO] S10 finished.
+[INFO] Err started and finished.
+[INFO] S3 finished.
+[INFO] S4 started.
+Vg4 = 4
+[INFO] S9 started.
+Vg3 = 9
+[INFO] Err started and finished.
+[INFO] S9 finished.
+[INFO] S10 started.
+Vg3 = 10
+[INFO] Err started and finished.
+[INFO] S10 finished.
+[INFO] Err started and finished.
+[INFO] S4 finished.
+--- [MAIN FINISHED] ---
